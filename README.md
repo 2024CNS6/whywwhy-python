@@ -1,1 +1,5 @@
-# whywwhy-python
+# whywwhy-python 
+
+### 파이썬 알고리즘을 공부하는 레파지토리입니다. 
+
+안녕하세요 
